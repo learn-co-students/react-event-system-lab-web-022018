@@ -10,4 +10,4 @@ ReactDOM.render(
     <EyesOnMe />
   </div>,
   document.getElementById('global')
-);
+)
